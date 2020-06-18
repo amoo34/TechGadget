@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "5eeb4438c2c1b83a202e34ca"
+  },
+  "name": "AbdulMoiz",
+  "email": "admin@gmail.com",
+  "phoneNumber": 12312312,
+  "password": "$2b$10$rIJaOl8IRoLyhmxrnYr8leT6vN05KV2doKZrJKYd7u2OitAt34ESa",
+  "isAdmin": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeb49acc2c1b83a202e34da"
+  },
+  "name": "Ali ahmad",
+  "email": "moiz@gmail.com",
+  "phoneNumber": 3067128916,
+  "password": "$2b$10$aF13SlCrCl1ZEcjOEyST2eY0dZH5g2u.GluUUeBZTJzVkdg10cET.",
+  "__v": 0
+}]
