@@ -1,0 +1,35 @@
+#cart
+{
+    background: transparent;
+    border: 0.5rem;
+}
+.navbar-light
+{
+    background: url("http://localhost:5000/menu.jpg") repeat-x;
+    background-size: 100%;
+  
+}
+#cart1
+{
+    color: blue;
+}
+#cart1:hover
+{
+    color:white
+}
+#dropdown-basic
+{
+    margin-top:10px;
+   
+}
+link{
+    color: rgb(49, 64, 77)
+}
+.dropdown1
+{
+  
+}
+.Navbar
+{
+    height: 90px;
+}

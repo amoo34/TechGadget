@@ -1,0 +1,67 @@
+.details
+{
+    padding-top:40px;
+}
+#proimg
+{
+    height: 400px;
+    width:80%
+}
+#proTitle
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#proPrice
+{
+    font-size: 26px;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#zxzx
+{
+    height:100px;
+   font-size:20px;
+   width:100%;
+}
+#btnsub
+{
+    height:50px;
+    border-radius: 5px;
+    border-color:blueviolet;
+    color:blue;
+    background-color: transparent;
+
+}
+#zxcvzxcv
+{
+    margin-top:10px;
+    
+}
+#proDetail
+{
+
+}
+#proCart
+{
+    font-size: 24px;
+    border-radius: 13px;
+}
+.back
+{
+    font-size: 26px;
+    border-radius: 8px;
+}
+.cvin
+{
+    font-size:16px;
+}
+.cvinin
+{
+    font-size: 14px;
+}
+.cv
+{
+    margin-bottom:-15px;
+    
+}

@@ -1,0 +1,14 @@
+.Pagination
+{
+    clear: both;
+}
+.page-link
+{
+    margin:auto;
+}
+#pageNo
+{
+   
+    font-size: 20px;
+    padding:6px;
+}

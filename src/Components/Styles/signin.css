@@ -1,0 +1,41 @@
+
+body {
+
+}
+
+
+
+.form-signin {
+  max-width: 380px;
+  padding: 1px 35px 45px;
+  margin: 0 auto;
+  background-color: rgb(171, 163, 180);
+  border: 1px solid rgba(0,0,0,0.1);  
+	border-radius: 20px;
+}
+#logotitle
+{
+	padding:20px;
+	font-size: 150px;
+	color: white;
+}
+	.form-control {
+	  position: relative;
+	  font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+	
+	}
+
+	input[type="text"] {
+	  margin-bottom: -1px;
+      border-radius: 10px;
+	}
+
+	input[type="password"] {
+        margin-top:5px;
+	  margin-bottom: 20px;
+	  border-radius: 10px;
+	
+	}
+

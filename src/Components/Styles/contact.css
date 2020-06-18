@@ -1,0 +1,31 @@
+#start
+{
+   
+    margin:0 auto;
+}
+.form-horizontal
+{
+    padding-top: 40px;
+}
+#name
+{
+  max-width: 400px;
+ 
+  
+} 
+#email
+{
+  max-width: 400px;
+
+  letter-spacing: 1px; 
+} 
+#msg {
+    max-width: 400px;
+    
+    letter-spacing: 1px;
+  }
+  .send-button
+  {
+    margin-top:10px;
+    margin-bottom: 10px;
+  }

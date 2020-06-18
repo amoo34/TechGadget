@@ -1,0 +1,25 @@
+#imgSize
+{
+    width:150px
+}
+#no
+{
+    padding:150px;
+}
+#no1
+{
+    width:350px; 
+    margin: 0 auto;
+}
+#no2
+{
+    width:250px; 
+    margin: 0 auto;
+}
+#continue
+{
+    border-color: brown;
+    font-size: 24px;
+    border-radius:5px;
+    
+}

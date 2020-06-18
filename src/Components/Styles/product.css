@@ -1,0 +1,62 @@
+
+.bg-dark{
+
+    display:block;
+
+}
+
+#heading 
+{
+   color: white;
+}
+
+#uol
+{
+    position: relative;
+    list-style: none;
+    float:left;
+    padding-top:30px;
+    background-color:white;
+    border-radius:10px;    
+    box-sizing:border-box;
+}
+#uol:hover
+{
+    background-color: whitesmoke;
+}
+#uol:hover #pCart1
+{
+      
+}
+#uol:hover #pPrice
+{
+color:red;
+      
+    
+}
+#productSize
+{
+    height:200px;
+    width:80%;
+}
+#pTitle
+{
+    height:60px;
+    font-weight: bold;
+    overflow:hidden;
+}
+#pPrice
+{
+    font-weight: bold;
+    color:darkslategray;
+}
+
+#pCart1
+{
+    background-color: transparent;
+    border-color:rgb(255, 0, 34);
+    color:rgb(255, 51, 0);
+}
+
+
+

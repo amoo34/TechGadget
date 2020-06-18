@@ -1,0 +1,35 @@
+.list{
+    list-style-type: none;
+   
+}
+#text{
+    
+    font-size: 24px;
+    color: beige;
+    position:fixed;
+    display: block;
+   
+}
+#texticon{
+
+    font-size: 60px;
+    color: beige;
+    position:fixed
+}
+.out
+{
+    margin: 0;
+    padding: 0;
+}
+
+.ash
+{
+    position: fixed;
+    float:left;
+   height:100%;
+}
+#divss
+{
+   margin-left:330px;
+   
+}

@@ -1,0 +1,79 @@
+
+body
+{
+    background-color: rgb(236, 240, 243);
+}
+.headingre
+{
+    color:black;
+    font-size: 35px;
+}
+.herep
+{
+    padding:25px;
+    
+}
+.RecomProduct
+{
+    
+}
+.recomback
+{
+    margin-top:20px;
+    
+    background-image: url("http://theradiodoctor.com/wp-content/uploads/2015/07/Hi-Tech-Wallpaper-17-light.jpg")
+}
+#uol1
+{
+    position: relative;
+    list-style: none;
+    padding:50px;
+    float:left;
+    
+    
+    box-sizing:border-box;
+}
+#uol1:hover
+{
+    background-color: whitesmoke;
+}
+#uol1:hover #pCart1
+{
+
+   
+        width:150px;
+       
+        color:wheat;
+        border-style: dashed;
+      
+    
+}
+#uol1:hover #pPrice
+{
+color:red;
+      
+    
+}
+#productSize
+{
+    height:240px;
+    width:80%;
+}
+#pTitle
+{
+    height:80px;
+    font-weight: bold;
+    overflow:hidden;
+}
+#pPrice
+{
+    font-weight: bold;
+    color:darkslategray;
+}
+
+#pCart1
+{
+   
+  
+
+}

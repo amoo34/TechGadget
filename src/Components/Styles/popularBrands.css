@@ -1,0 +1,34 @@
+#logopos
+{
+   height:100px;
+ 
+   float:left; 
+   margin-left:10px;
+}
+#title_popular
+{
+    background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/light-grey-tech-distance-motion-design-video-animation-ultra-hd-4k-3840x2160_r5wcrcmr_thumbnail-full01.png") repeat-x;
+    padding:30px;
+    font-family: cursive;
+    font-size: 34px;
+}
+h4{
+    float:left;
+}
+#firstrow
+{
+    padding-top:50px;
+}
+#nextrow
+{
+    padding-top:60px;
+}
+.col-3
+{
+   box-sizing:border-box;
+   padding-left:50px;
+}
+.PopularBrands
+{
+    padding-top:10px;
+}

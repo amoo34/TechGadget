@@ -1,0 +1,63 @@
+.Validity
+{
+    clear:both;
+}
+#valid
+{
+    margin-top:40px;
+    padding-top:30px;
+    background-color:lightgray;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+}
+#col-4
+{
+    padding-left:30px;
+    box-sizing: border-box;
+}
+#portion12
+{
+    float:left;
+    padding-left: 20px;
+}
+#insideicon
+{
+    color: rgb(189, 94, 51);
+}
+#portion11
+{
+    float:left;
+    color: rgb(94, 117, 133);
+}
+#portion13
+{
+    clear:both;
+}
+#portion21
+{
+float:left;
+color: rgb(91, 136, 121);
+}
+#portion22
+{
+    float:left;
+    padding-left: 20px;
+}
+#portion23
+{
+    clear:both;
+}
+#portion31
+{
+    float: left;
+    color: rgb(91, 136, 121);
+}
+#portion32
+{
+    float:left;
+    padding-left: 20px;
+}
+#portion33
+{
+    clear:both;
+}
