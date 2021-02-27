@@ -26,7 +26,7 @@ function App() {
     <React.Fragment>
     
       <div className="content">
-      <Switch>
+      <Switch >
       <Route path="/"  exact component={Home}/> 
       <Route path="/error"  exact component={error}/> 
       <Route path="/AdminProdDelete" exact component={ AdminProdDelete}/> 
