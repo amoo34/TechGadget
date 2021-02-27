@@ -26,6 +26,9 @@ function App() {
   return (
     <React.Fragment>
       <p>Hello jano</p>
+      <p>Hello jano</p>
+      <p>Hello jano</p>
+      <p>Hello jano</p>
       <div className="content">
       <Switch>
         <Route path="/"  exact component={Home}/> 
