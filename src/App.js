@@ -28,9 +28,9 @@ function App() {
       <h1>Helicopter shot</h1>
       <div className="content">
       <Switch>
-      <Route path="/"  exact component={Home}/> 
-      <Route path="/error"  exact component={error}/> 
-      <Route path="/AdminProdDelete" exact component={ AdminProdDelete}/> 
+        <Route path="/"  exact component={Home}/> 
+        <Route path="/erro"  exact component={error}/> 
+        <Route path="/AdminProdDelete" exact component={ AdminProdDelete}/> 
       <Route path="/AdminProd" component={Aproduct}/>
       <Route path="/AdminOrder" component={Aorder}/>
      <Route path="/Productnewpage/:id" component={Productnewpage}/>
