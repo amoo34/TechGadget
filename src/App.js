@@ -22,10 +22,10 @@ import error from './Components/error404'
 import AdminReview from './Components/Admin/review'
 function App() {
   const Product =    storeProducts;
+  console.log("testing")
   return (
     <React.Fragment>
-      <p>Hello World</p>
-      <h1>Helicopter shot</h1>
+      <p>Hello jano</p>
       <div className="content">
       <Switch>
         <Route path="/"  exact component={Home}/> 
