@@ -20,9 +20,9 @@ import Productnewpage from './Components/Products/Productnewpage';
 import profile from './Components/profile'
 import error from './Components/error404'
 import AdminReview from './Components/Admin/review'
+
 function App() {
-  const Product =    storeProducts;
-  console.log("testing")
+
   return (
     <React.Fragment>
       
